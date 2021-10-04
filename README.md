@@ -52,3 +52,7 @@ with the output of the ***Test*** button. Both outputs should be the same.
 - ## Requirements
 
   Since we haven't yet made the docker image of this app work, the user needs to have Python 3.8 (https://www.python.org/downloads/release/python-380/), Tkinter (https://docs.python.org/3/library/tkinter.html) and a LAMMPS serial executable (https://www.lammps.org/) installed.
+  
+  
+- ## Demo
+  We've uploaded a short video demonstration of the software in the video directory.
